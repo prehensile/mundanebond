@@ -263,3 +263,5 @@ Bond is using a Soda Stream.
 Bond writes an email.
 Bond picks his Fantasy Football team.
 Bond fills the kettle.
+Bond makes small talk with the receptionist.
+Bond thinks he has to be somewhere.
