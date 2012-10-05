@@ -35,7 +35,7 @@ if (not nextrun) or (now >= long(nextrun)):
     line = random.choice( lines )
 
     tc = twitterconnector.TwitterConnector( creds_path="twitter_creds" )
-    # tc.tweet( line )
+    tc.tweet( line )
     logging.info( "Tweet: %s" % line )
 
     hours = random.randrange( 1, 4 )
