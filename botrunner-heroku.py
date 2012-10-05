@@ -22,7 +22,7 @@ nextrun_key = 'NextRun'
 nextrun = None
 try:
     nextrun = redis.get( nextrun_key )
-    logging.info( "nextrun=%d" % nextrun )
+    logging.info( "nextrun=%s" % nextrun )
 except Exception as e:
     logging.info( e )
 
