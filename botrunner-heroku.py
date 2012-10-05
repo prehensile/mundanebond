@@ -37,7 +37,7 @@ if (not nextrun) or (now >= long(nextrun)):
     tc.tweet( line )
     logging.info( "Tweet: %s" % line )
 
-    hours = random.randrange( 1, 4 )
+    hours = random.randrange( 2, 10 )
     delta = ((60 * 60 * hours) - 120)  # make sure we will run on the hour, set deadline a couple of minutes before.
     nextrun = now + delta
     try:
