@@ -13,9 +13,9 @@ Bond moans about SAP.
 Bond gets a haircut he's not that happy with.
 Bond defrosts his freezer.
 Bond takes the rubbish out.
-Bond does his expenses with an envelope full of reciepts.
+Bond finds an envelope full of receipts, does his expenses.
 Bond nips to the 24 hour garage for a pint of milk and some skins.
-Bond cuts his toe nails.
+Bond cuts his toenails.
 Bond runs out of toothpaste.
 Bond overdoes it a bit, watches cartoons 'til he feels better.
 Bond orders a takeaway off the internet because he has the fear and can't handle talking to someone on the phone.
@@ -28,16 +28,16 @@ Bond has the kids for the weekend.
 Bond trims the hedges.
 Bond instagrams the cat.
 Bond had his car fucked up by monkeys at the safari park.
-Bond gets told off for not separating the rubbish.
+Bond gets told off for not separating the recycling.
 Bond is underwhelmed by Chessington World of Adventures.
 Bond practices spying.
 Bond spends the weekend playing Goldeneye on the N64.
 Bond eats cold curry.
-Bond finds a little blim in the bottom of a packet of malboro lights.
+Bond finds a little blim in the bottom of a packet of Malboro Lights.
 Bond misses the 82, waits for the 88 for what seems like ages.
 Bond stole the mayorship of MI6 from M.
 Bond writes a passive aggressive note about someone stealing his mug.
-Bond plays minecraft for days.
+Bond plays Minecraft for days.
 Bond deletes duplicates in iTunes.
 Bond sees a pretzel dog.
 Bond wonders what to call an untitled folder. Opts for "Spy stuff".
@@ -54,8 +54,8 @@ Bond trawls lanyrd for conferences he will never go to.
 Bond pokes Scaramanga.
 Bond creates an okcupid profile.
 Bond writes a talk for #spyconf.
-Bond plays with his lotus car configurator.
-Bond glues his fingers together making a spitfire model.
+Bond plays with his Lotus car configurator.
+Bond glues his fingers together making a Spitfire model.
 Bond sits on chewing gum.
 Bond walks to the 4th floor and plays with a fax.
 Bond goes upstairs and forgets what it was he wanted to do.
@@ -81,7 +81,7 @@ Bond, hungover, retches slightly as he scoops the catfood into the bowl. Then go
 Bond books a flight.
 Bond's mum rings.
 Bond has indigestion.
-Bond reformats a USB stick for Fat32.
+Bond reformats a USB stick to FAT32.
 Bond is looking at sheds.
 Bond bought a 2kg drum of Hellmann's mayonnaise from Costco.
 Bond has a Rennie.
@@ -113,12 +113,12 @@ Bond's sock has a hole in it.
 Bond asks for LinkedIn endorsements.
 Bond wonders if his new profile pic makes him look fat.
 Bond should be in bed, but is instead browsing ex-girlfriends on Facebook.
-Bond calls Moneypenny Funnypenny.
+Bond calls Moneypenny 'Funnypenny'.
 Bond is a bit grumpy.
 Bond can't pronounce someone's name.
 Bond is annoyed that she squeezed the toothpaste at the top of the tube.
 Bond does a Sudoku.
-Bond draws mustaches on adverts in Soldier of Fortune magazine.
+Bond draws extra mustaches, monocles on adverts in Soldier of Fortune magazine.
 Bond reads an old Tatler in the GP's waiting room.
 Bond gets a check up.
 Bond gets his jabs done.
@@ -136,13 +136,13 @@ Bond can't hang a picture.
 Bond forgets how to tie a tie.
 Bond adds a book to his wishlist.
 Bond can't pronounce someone's name.
-Bond sings along to songs on the radio, changing words to 'guns' and 'England'
+Bond sings along to songs on the radio, changing words to 'guns' and 'England'.
 Bond broke the tin opener.
-Bond browses ebay for stuff made from tactical materials.
+Bond browses eBay for stuff made out of tactical materials.
 Bond breaks the ringpull off.
 Bond is looking for his car keys.
 Bond can't be arsed.
-Bond is watching Antiques Roadshow.
+Bond is watching Antiques Roadshow in his dressing gown.
 Bond gets sandwich dressing on his tie.
 Bond buys a new deodorant.
 Bond finishes off the cheese.
@@ -212,7 +212,7 @@ Bond combs his hair.
 Bond sighs.
 Bond takes his shoes off.
 Bond has a bubble bath.
-Bond can't get the smoke detector to stop.
+Bond can't get the smoke detector to shut up.
 Bond gets lost in Westfield.
 Bond makes a 'keep calm' poster.
 Bond speaks in the third person.
@@ -234,7 +234,7 @@ Bond puts the carrot shavings on the compost heap.
 Bond bookmarks a recipe.
 Bond has a rash.
 Bond waters the flower bed.
-Bond does his Ocado order.
+Bond is doing his Ocado order.
 Bond can't decide which bacon to buy.
 Bond is sorting tools in his shed.
 Bond gets his winter coat out.
@@ -316,8 +316,12 @@ Bond buys an open return.
 Bond does the ironing.
 Bond is down the Cash & Carry.
 Bond undoes the top button.
-Bond is having a prostate examination.
+Bond is having his prostate examined.
 Bond spells his own name wrong.
 Bond is covered in vandal grease.
 Bond gets a mole removed.
 Bond clocks off early.
+Bond has painted his socks on.
+Bond puts 20p in a RNIB dog.
+Bond is collecting foil.
+Bond talks to his plants.
