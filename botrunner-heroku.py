@@ -19,8 +19,12 @@ redis = redisconnector.get_redis()
 
 # run bot every run_interval seconds
 nextrun_key = 'NextRun'
-nextrun = redis.get( nextrun_key )
-logging.info( "nextrun=%d" % nextrun )
+nextrun = None
+try:
+    nextrun = redis.get( nextrun_key )
+    logging.info( "nextrun=%d" % nextrun )
+except Exception as e:
+    logging.info( e )
 
 now = time.time()
 if (not nextrun) or (now >= long(nextrun)):
@@ -30,11 +34,14 @@ if (not nextrun) or (now >= long(nextrun)):
     lines = fh.read().splitlines()
     line = random.choice( lines )
 
-    tc = twitterconnector.TwitterConnector( twitter_creds_path="twitter_creds" )
+    tc = twitterconnector.TwitterConnector( creds_path="twitter_creds" )
     tc.tweet( line )
 
     hours = random.randrange( 1, 4 )
     nextrun = (60 * 60 * hours) - 10  # make sure we will run on the hour, set deadline a few seconds before.
-    redis.set( nextrun_key, "%d" % nextrun )
+    try:
+        redis.set( nextrun_key, "%d" % nextrun )
+    except Exception as e:
+        logging.info( e )
 else:
     logging.info( "Not due yet, now=%s and nextrun=%s" % (now,nextrun) )
