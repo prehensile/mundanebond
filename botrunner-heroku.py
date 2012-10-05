@@ -39,7 +39,7 @@ if (not nextrun) or (now >= long(nextrun)):
     logging.info( "Tweet: %s" % line )
 
     hours = random.randrange( 1, 4 )
-    delta = ((60 * 60 * hours) - 10)  # make sure we will run on the hour, set deadline a few seconds before.
+    delta = ((60 * 60 * hours) - 120)  # make sure we will run on the hour, set deadline a couple of minutes before.
     nextrun = now + delta
     try:
         redis.set( nextrun_key, "%d" % nextrun )
