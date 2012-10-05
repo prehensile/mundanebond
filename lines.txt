@@ -13,9 +13,9 @@ Bond moans about SAP.
 Bond gets a haircut he's not that happy with.
 Bond defrosts his freezer.
 Bond takes the rubbish out.
-Bond does his expenses with an envelope full of reciepts.
+Bond finds an envelope full of receipts, does his expenses.
 Bond nips to the 24 hour garage for a pint of milk and some skins.
-Bond cuts his toe nails.
+Bond cuts his toenails.
 Bond runs out of toothpaste.
 Bond overdoes it a bit, watches cartoons 'til he feels better.
 Bond orders a takeaway off the internet because he has the fear and can't handle talking to someone on the phone.
@@ -28,16 +28,16 @@ Bond has the kids for the weekend.
 Bond trims the hedges.
 Bond instagrams the cat.
 Bond had his car fucked up by monkeys at the safari park.
-Bond gets told off for not separating the rubbish.
+Bond gets told off for not separating the recycling.
 Bond is underwhelmed by Chessington World of Adventures.
 Bond practices spying.
 Bond spends the weekend playing Goldeneye on the N64.
 Bond eats cold curry.
-Bond finds a little blim in the bottom of a packet of malboro lights.
+Bond finds a little blim in the bottom of a packet of Malboro Lights.
 Bond misses the 82, waits for the 88 for what seems like ages.
 Bond stole the mayorship of MI6 from M.
 Bond writes a passive aggressive note about someone stealing his mug.
-Bond plays minecraft for days.
+Bond plays Minecraft for days.
 Bond deletes duplicates in iTunes.
 Bond sees a pretzel dog.
 Bond wonders what to call an untitled folder. Opts for "Spy stuff".
@@ -54,8 +54,8 @@ Bond trawls lanyrd for conferences he will never go to.
 Bond pokes Scaramanga.
 Bond creates an okcupid profile.
 Bond writes a talk for #spyconf.
-Bond plays with his lotus car configurator.
-Bond glues his fingers together making a spitfire model.
+Bond plays with his Lotus car configurator.
+Bond glues his fingers together making a Spitfire model.
 Bond sits on chewing gum.
 Bond walks to the 4th floor and plays with a fax.
 Bond goes upstairs and forgets what it was he wanted to do.
@@ -81,7 +81,7 @@ Bond, hungover, retches slightly as he scoops the catfood into the bowl. Then go
 Bond books a flight.
 Bond's mum rings.
 Bond has indigestion.
-Bond reformats a USB stick for Fat32.
+Bond reformats a USB stick to FAT32.
 Bond is looking at sheds.
 Bond bought a 2kg drum of Hellmann's mayonnaise from Costco.
 Bond has a Rennie.
@@ -113,12 +113,12 @@ Bond's sock has a hole in it.
 Bond asks for LinkedIn endorsements.
 Bond wonders if his new profile pic makes him look fat.
 Bond should be in bed, but is instead browsing ex-girlfriends on Facebook.
-Bond calls Moneypenny Funnypenny.
+Bond calls Moneypenny 'Funnypenny'.
 Bond is a bit grumpy.
 Bond can't pronounce someone's name.
 Bond is annoyed that she squeezed the toothpaste at the top of the tube.
 Bond does a Sudoku.
-Bond draws mustaches on adverts in Soldier of Fortune magazine.
+Bond draws extra mustaches, monocles on adverts in Soldier of Fortune magazine.
 Bond reads an old Tatler in the GP's waiting room.
 Bond gets a check up.
 Bond gets his jabs done.
@@ -136,13 +136,13 @@ Bond can't hang a picture.
 Bond forgets how to tie a tie.
 Bond adds a book to his wishlist.
 Bond can't pronounce someone's name.
-Bond sings along to songs on the radio, changing words to 'guns' and 'England'
+Bond sings along to songs on the radio, changing words to 'guns' and 'England'.
 Bond broke the tin opener.
-Bond browses ebay for stuff made from tactical materials.
+Bond browses eBay for stuff made out of tactical materials.
 Bond breaks the ringpull off.
 Bond is looking for his car keys.
 Bond can't be arsed.
-Bond is watching Antiques Roadshow.
+Bond is watching Antiques Roadshow in his dressing gown.
 Bond gets sandwich dressing on his tie.
 Bond buys a new deodorant.
 Bond finishes off the cheese.
@@ -175,3 +175,153 @@ Bond retweets Graham Linehan.
 Bond uses handsfree.
 Bond picks up a Poirot VHS box-set from Oxfam.
 Bond calls HMRC to sort out his tax return.
+Bond Googles himself.
+Bond is on hold.
+Bond watches the director's commentary.
+Bond naps in the conservatory.
+Bond cannot abide fruit in salads.
+Bond forgot to pay the council tax again.
+Bond sets up a direct debit for home insurance.
+Bond wonders - if he could be an animal - which one?
+Bond hates it when people bring their kids into the office.
+Bond compares the market.
+Bond creosotes the fence.
+Bond flicks endlessly between tabs.
+Bond picks up his suit from the dry cleaners.
+Bond dunks his Rich Tea for too long and it breaks off into his cuppa.
+Bond looks at himself in the mirror.
+Bond tells himself it's going to be fine.
+Bond looks for grey hairs.
+Bond scratches.
+Bond flosses.
+Bond has a bit of chicken stuck between his teeth.
+Bond doesn't finish his apple.
+Bond books a taxi.
+Bond feeds the pigeons.
+Bond skims a stone.
+Bond tops up his Oyster card.
+Bond misses a call.
+Bond hums Daydream Believer.
+Bond browses the M&S sale.
+Bond has a Horlicks.
+Bond picks up a ratchet screwdriver at the checkout at B&Q, plays with it a bit, puts it down again.
+Bond answers 'maybe' to all his Facebook event invitations.
+Bond clicks like on Bread.
+Bond tries to find a torrent for Porridge.
+Bond combs his hair.
+Bond sighs.
+Bond takes his shoes off.
+Bond has a bubble bath.
+Bond can't get the smoke detector to shut up.
+Bond gets lost in Westfield.
+Bond makes a 'keep calm' poster.
+Bond speaks in the third person.
+Bond tries to get out of a leaving do.
+Bond signs a leaving card.
+Bond thinks up an excuse.
+Bond has a .jpg for an email signature.
+Bond whittles.
+Bond is on a conference call. Doodling.
+Bond draws a cock on a misty window.
+Bond scours his IM contacts.
+Bond queues at the Post Office.
+Bond buys a book of stamps.
+Bond has a papercut.
+Bond has a delivery note from the postman.
+Bond broke a nail.
+Bond has a splinter.
+Bond puts the carrot shavings on the compost heap.
+Bond bookmarks a recipe.
+Bond has a rash.
+Bond waters the flower bed.
+Bond is doing his Ocado order.
+Bond can't decide which bacon to buy.
+Bond is sorting tools in his shed.
+Bond gets his winter coat out.
+Bond builds a retaining wall.
+Bond makes some raised beds for his vegetable plot.
+Bond drinks a Babycham.
+Bond eats dry roasted peanuts.
+Bond comes in for dinner.
+Bond joins CAMRA.
+Bond replaces the guttering.
+Bond has lost a slipper.
+Bond does a GroupOn.
+Bond is watching the snooker.
+Bond is thinking about pebble-dashing the front of the house.
+Bond got crazy paving for his driveway.
+Bond is playing mini-golf.
+Bond sits on a chair.
+Bond shuffles his chair over to the printer and back to his desk.
+Bond adjusts his chair.
+Bond spins round in his chair.
+Bond adds another article to Instapaper.
+Bond can't get the printer to work.
+Bond installs new drivers.
+Bond franks some mail.
+Bond is using a Soda Stream.
+Bond writes an email.
+Bond picks his Fantasy Football team.
+Bond fills the kettle.
+Bond makes small talk with the receptionist.
+Bond thinks he has to be somewhere.
+Bond puffs a pillow.
+Bond books an opticians' appointment.
+Bond is having the builders in.
+Bond sat on his reading glasses.
+Bond fell asleep on the sofa.
+Bond adjusts his screen settings.
+Bond is having an OK day.
+Bond sniffs the milk to see if it's okay.
+Bond flips his pillow over to the cold side.
+Bond moans about coupons
+Bond drinks the alcohol-free lager.
+Bond queries an invoice.
+Bond is considering a water element for the garden.
+Bond puts down some slug pellets.
+Bond is looking for the remote control.
+Bond has a kidney stone.
+Bond uses self-service checkout
+Bond has counted the pennies in the penny jar.
+Bond is saving £2 coins.
+Bond has found his lost slipper.
+Bond has an opinion about fixed-rate mortgages.
+Bond is wearing an Arran jumper.
+Bond just called a hotline.
+Bond renewed his RAC membership.
+Bond wonders if he should get a new scarf for winter.
+Bond clears out the salad drawer.
+Bond cleans his bicycle chain.
+Bond bins some out of date spices.
+Bond is comparing prices.
+Bond pours too much milk into his tea.
+Bond is waiting to cross the road.
+Bond watches Jools Holland.
+Bond turns the tap on too high.
+Bond waves to the vicar.
+Bond tries to grow a moustache.
+Bond is working on a scale model.
+Bond has baked a cake.
+Bond missed his bus.
+Bond has pickled some onions.
+Bond can't make the cribbage night.
+Bond is down the Legion.
+Bond has packed some sandwiches.
+Bond explains the rules of Gin Rummy.
+Bond descales the kettle.
+Bond is writing a letter to the editor
+Bond needs a pound coin for the trolley.
+Bond is flicking through his Readers Digest.
+Bond buys an open return.
+Bond does the ironing.
+Bond is down the Cash & Carry.
+Bond undoes the top button.
+Bond is having his prostate examined.
+Bond spells his own name wrong.
+Bond is covered in vandal grease.
+Bond gets a mole removed.
+Bond clocks off early.
+Bond has painted his socks on.
+Bond puts 20p in a RNIB dog.
+Bond is collecting foil.
+Bond talks to his plants.
