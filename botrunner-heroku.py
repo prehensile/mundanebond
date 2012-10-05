@@ -35,10 +35,12 @@ if (not nextrun) or (now >= long(nextrun)):
     line = random.choice( lines )
 
     tc = twitterconnector.TwitterConnector( creds_path="twitter_creds" )
-    tc.tweet( line )
+    # tc.tweet( line )
+    logging.info( "Tweet: %s" % line )
 
     hours = random.randrange( 1, 4 )
-    nextrun = (60 * 60 * hours) - 10  # make sure we will run on the hour, set deadline a few seconds before.
+    delta = ((60 * 60 * hours) - 10)  # make sure we will run on the hour, set deadline a few seconds before.
+    nextrun = now + delta
     try:
         redis.set( nextrun_key, "%d" % nextrun )
     except Exception as e:
