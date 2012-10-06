@@ -25,7 +25,7 @@ try:
 except Exception as e:
     logging.info( e )
 
-POST_CHANCE = 0.7
+POST_CHANCE = 1.0
 SLEEP_START_HOUR = 22
 SLEEP_END_HOUR = 8
 
