@@ -72,4 +72,5 @@ if (not nextrun) or (now >= long(nextrun)):
     except Exception as e:
         logging.info( e )
 else:
-    logging.info( "Not due yet, now=%s and nextrun=%s" % (now,nextrun) )
+    dt_nextrun = datetime.datetime.fromtimestamp( nextrun )
+    logging.info( "Not due yet, now=%s and nextrun=%s (%s)" % (now,nextrun,dt_nextrun) )
