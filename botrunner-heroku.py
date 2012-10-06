@@ -25,7 +25,7 @@ try:
 except Exception as e:
     logging.info( e )
 
-POST_CHANCE = 1.0
+POST_CHANCE = 1
 SLEEP_START_HOUR = 22
 SLEEP_END_HOUR = 8
 
@@ -52,11 +52,16 @@ if (not nextrun) or (now >= long(nextrun)):
     hours = random.randrange( 2, 10 )
     delta = datetime.timedelta( hours=hours )
     delta -= datetime.timedelta( minutes=2 )  # make sure we will run on the actual hour, set time a couple of minutes before.
-    dt_nextrun = datetime.datetime.now() + delta
+    dt_now = datetime.datetime.now()
+    dt_nextrun = dt_now + delta
     
+    print "hours=%d" % hours
+
     # move next run times during sleep hours to the next day
-    if dt_nextrun.time().hour > SLEEP_START_HOUR:
-        sleep_length = (24 - SLEEP_START_HOUR) + SLEEP_END_HOUR
+    nexthour = dt_nextrun.hour
+    sleep_length = (24 - SLEEP_START_HOUR) + SLEEP_END_HOUR
+    if (nexthour > SLEEP_START_HOUR) or (nexthour < SLEEP_END_HOUR):
+        # offset by sleep time, move to next morning
         dt_nextrun += datetime.timedelta( hours=sleep_length )
 
     # store next run time as timestamp
