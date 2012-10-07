@@ -37,8 +37,10 @@ POST_CHANCE = 1
 SLEEP_START_HOUR = 22
 SLEEP_END_HOUR = 8
 
+override_nextrun = len(sys.argv) > 1 and sys.argv[2] == "override_nextrun"
+
 now = time.time()
-if (not nextrun) or (now >= long(nextrun)):
+if override_nextrun or (not nextrun) or (now >= long(nextrun)):
     logging.info( "Running mundanebond..." )
     
     if random.random() > POST_CHANCE:
