@@ -28,7 +28,7 @@ try:
 except Exception as e:
     logging.info( e )
 if line_ptr is None:
-    line_ptr = 13
+    line_ptr = 330
 else:
     line_ptr = int( line_ptr )
     line_ptr += 1
@@ -48,7 +48,7 @@ if override_nextrun or (not nextrun) or (now >= long(nextrun)):
         logging.info( "POST_CHANCE (%2.1f) not met." % POST_CHANCE )    
     else:
 
-        # read all lines into a list, pick one
+        # read all lines into a list, get the next one
         fh = open( 'lines_shuffled.txt' )
         lines = fh.read().splitlines()
         if line_ptr >= len(lines):
@@ -57,7 +57,7 @@ if override_nextrun or (not nextrun) or (now >= long(nextrun)):
         
         # tweet
         tc = twitterconnector.TwitterConnector( creds_path="twitter_creds" )
-        # tc.tweet( line )
+        tc.tweet( line )
         logging.info( "Tweet: %s" % line )
 
     ## set next tweet time
