@@ -20,10 +20,18 @@ redis = redisconnector.get_redis()
 # get the next due timestamp
 nextrun_key = 'NextRun'
 nextrun = None
+lineptr_key = 'LinePtr'
+line_ptr = None
 try:
     nextrun = redis.get( nextrun_key )
+    line_ptr = redis.get( lineptr_key )
 except Exception as e:
     logging.info( e )
+if line_ptr is None:
+    line_ptr = 13
+else:
+    line_ptr = int( line_ptr )
+    line_ptr += 1
 
 POST_CHANCE = 1
 SLEEP_START_HOUR = 22
@@ -39,13 +47,15 @@ if (not nextrun) or (now >= long(nextrun)):
     else:
 
         # read all lines into a list, pick one
-        fh = open( 'lines.txt' )
+        fh = open( 'lines_shuffled.txt' )
         lines = fh.read().splitlines()
-        line = random.choice( lines )
+        if line_ptr >= len(lines):
+            line_ptr = 0
+        line = lines[ line_ptr ]
         
         # tweet
         tc = twitterconnector.TwitterConnector( creds_path="twitter_creds" )
-        tc.tweet( line )
+        # tc.tweet( line )
         logging.info( "Tweet: %s" % line )
 
     ## set next tweet time
@@ -67,6 +77,7 @@ if (not nextrun) or (now >= long(nextrun)):
     logging.info( "Next run at %s, will store %d" % (dt_nextrun,nextrun) )
     try:
         redis.set( nextrun_key, "%d" % nextrun )
+        redis.set( lineptr_key, "%d" % line_ptr )
     except Exception as e:
         logging.info( e )
 else:
