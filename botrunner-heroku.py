@@ -54,8 +54,6 @@ if (not nextrun) or (now >= long(nextrun)):
     delta -= datetime.timedelta( minutes=2 )  # make sure we will run on the actual hour, set time a couple of minutes before.
     dt_now = datetime.datetime.now()
     dt_nextrun = dt_now + delta
-    
-    print "hours=%d" % hours
 
     # move next run times during sleep hours to the next day
     nexthour = dt_nextrun.hour
