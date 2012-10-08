@@ -61,7 +61,7 @@ if override_nextrun or (not nextrun) or (now >= long(nextrun)):
         logging.info( "Tweet: %s" % line )
 
     ## set next tweet time
-    hours = random.randrange( 2, 8 )
+    hours = random.randrange( 2, 6 )
     delta = datetime.timedelta( hours=hours )
     delta -= datetime.timedelta( minutes=2 )  # make sure we will run on the actual hour, set time a couple of minutes before.
     dt_now = datetime.datetime.now()
