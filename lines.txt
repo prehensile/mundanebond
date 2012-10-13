@@ -190,7 +190,7 @@ Bond hates it when people bring their kids into the office.
 Bond compares the market.
 Bond creosotes the fence.
 Bond flicks endlessly between tabs.
-Bond picks up his suit from the dry cleaners.
+Bond picks up his suit from the dry cleaners, but it looks exactly the same.
 Bond dunks his Rich Tea for too long and it breaks off into his cuppa.
 Bond looks at himself in the mirror.
 Bond tells himself it's going to be fine.
@@ -342,3 +342,4 @@ Bond is fiddling with the boiler.
 Bond is waiting in for a delivery. 
 Bond is cleaning the bathroom.
 Bond is watching Grand Designs.
+Bond is putting all his DVDs back in the right cases.
