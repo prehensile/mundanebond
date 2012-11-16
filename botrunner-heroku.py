@@ -33,7 +33,7 @@ else:
     line_ptr = int( line_ptr )
     line_ptr += 1
 
-POST_CHANCE = 1
+POST_CHANCE = 0.8
 SLEEP_START_HOUR = 22
 SLEEP_END_HOUR = 8
 
@@ -61,7 +61,7 @@ if override_nextrun or (not nextrun) or (now >= long(nextrun)):
         logging.info( "Tweet: %s" % line )
 
     ## set next tweet time
-    hours = random.randrange( 2, 6 )
+    hours = random.randrange( 4, 8 )
     delta = datetime.timedelta( hours=hours )
     delta -= datetime.timedelta( minutes=2 )  # make sure we will run on the actual hour, set time a couple of minutes before.
     dt_now = datetime.datetime.now()
