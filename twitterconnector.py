@@ -1,5 +1,6 @@
 import tweepy
 import os
+import logging
 
 class TwitterConnector( object ):
 
