@@ -28,7 +28,7 @@ try:
 except Exception as e:
     logging.info( e )
 if line_ptr is None:
-    line_ptr = 330
+    line_ptr = 0
 else:
     line_ptr = int( line_ptr )
     line_ptr += 1
@@ -61,7 +61,7 @@ if override_nextrun or (not nextrun) or (now >= long(nextrun)):
         logging.info( "Tweet: %s" % line )
 
     ## set next tweet time
-    hours = random.randrange( 6, 12 )
+    hours = random.randrange( 6, 24 )
     delta = datetime.timedelta( hours=hours )
     delta -= datetime.timedelta( minutes=2 )  # make sure we will run on the actual hour, set time a couple of minutes before.
     dt_now = datetime.datetime.now()
